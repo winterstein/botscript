@@ -1,0 +1,24 @@
+{
+  "name": "botscript",
+  "version": "0.1.0",
+  "description": "Chat-style coding for writing bots or any interactive app.",
+  "main": "botscript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winterstein/botscript.git"
+  },
+  "keywords": [
+    "script",
+    "bot",
+    "chat",
+    "coding",
+    "programming",
+    "app",
+    "chatbot"
+  ],
+  "author": "Daniel Winterstein",
+  "license": "MIT"
+}
