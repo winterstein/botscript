@@ -16,7 +16,7 @@ onOutput (ie your output has been emitted)
 
 Only output: another scriptlet
 
-parents do not get called unless the child explicitly does with 
+parents do not get called unless the child explicitly does with parent.method()
  -- except for done, fail
 
 actions:
